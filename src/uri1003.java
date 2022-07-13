@@ -13,5 +13,6 @@ public class uri1003 {
         int soma = A + B;
         System.out.println("SOMA = " + soma);
 
+        sc.close();
     }
 }

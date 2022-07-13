@@ -12,6 +12,7 @@ public class uri1011 {
         double volume = (4.0/3) * pi * Math.pow(raio, 3.0);
 
         System.out.printf("VOLUME = %.3f%n", volume);
+        sc.close();
 
     }
 }

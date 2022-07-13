@@ -15,5 +15,7 @@ public class uri1010 {
 
         double valorAPagar = numPec1 * valPec1 + numPec2 * valPec2;
         System.out.printf("VALOR A PAGAR : R$ = %.2f%n" , valorAPagar);
+
+        sc.close();
     }
 }

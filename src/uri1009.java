@@ -18,5 +18,6 @@ public class uri1009 {
         double SalarioComBonus = (vendas * 0.15) + salario;
 
         System.out.printf("TOTAL = %.2f%n " + SalarioComBonus);
+        sc.close();
     }
 }

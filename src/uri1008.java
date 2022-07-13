@@ -16,5 +16,6 @@ public class uri1008 {
 
         System.out.println("NUMBER = " + NumeroFuncionario);
         System.out.println("SALARY = " + SalarioFinal);
+        sc.close();
     }
 }
