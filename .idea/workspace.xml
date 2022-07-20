@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="312849a4-7edd-4176-92fd-fc4359f1921e" name="Changes" comment="" />
+    <list default="true" id="312849a4-7edd-4176-92fd-fc4359f1921e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/uri1064.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -31,14 +34,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.uri1048">
-    <configuration name="uri1020" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="uri1020" />
-      <module name="uri1001" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.uri1064">
     <configuration name="uri1035" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="uri1035" />
       <module name="uri1001" />
@@ -67,13 +63,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="uri1064" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="uri1064" />
+      <module name="uri1001" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.uri1064" />
         <item itemvalue="Application.uri1048" />
         <item itemvalue="Application.uri1044" />
         <item itemvalue="Application.uri1038" />
         <item itemvalue="Application.uri1035" />
-        <item itemvalue="Application.uri1020" />
       </list>
     </recent_temporary>
   </component>
