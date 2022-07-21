@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="312849a4-7edd-4176-92fd-fc4359f1921e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/uri1066.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/uri1001/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/uri1001/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/uri1001/uri1064.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/uri1001/uri1064.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/uri1001/uri1065.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/uri1001/uri1065.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,14 +33,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.uri1066">
-    <configuration name="uri1044" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="uri1044" />
-      <module name="uri1001" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.uri1078">
     <configuration name="uri1048" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="uri1048" />
       <module name="uri1001" />
@@ -73,13 +62,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="uri1078" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="uri1078" />
+      <module name="uri1001" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.uri1078" />
         <item itemvalue="Application.uri1066" />
         <item itemvalue="Application.uri1065" />
         <item itemvalue="Application.uri1064" />
         <item itemvalue="Application.uri1048" />
-        <item itemvalue="Application.uri1044" />
       </list>
     </recent_temporary>
   </component>
