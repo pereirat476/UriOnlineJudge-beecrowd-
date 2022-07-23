@@ -13,7 +13,7 @@ public class uri1116 {
 			int x = sc.nextInt();
 			int y = sc.nextInt();
 			
-			if(y<0) {
+			if(y == 0) {
 				System.out.println("divisao impossivel");
 			}else {
 				double divisao = (double) x / y;
